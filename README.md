@@ -10,6 +10,7 @@ App in Android Studio can be written in Java, Kotlin, and C++ languanges that wi
 all the contents of an Android app and it is the file to install the app.
 
 To get to know how an Android app is written, i followed the tutorial in https://developer.android.com to build a simple "Hello World" program.
+can be found here https://github.com/arsa-dg/first-androidstudio
 
 Apps provide multiple entry points, it means that android apps are built as a combination of components that can be invoked individually.
 "activity" is a type of component that provides a user interfece, and "main" activity is the ui that will show when an app icon is tapped.
